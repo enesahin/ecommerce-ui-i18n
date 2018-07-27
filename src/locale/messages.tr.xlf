@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <target>Ana Sayfa</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="004b222ff9ef9dd4771b777950ca1d0e4cd4348a" datatype="html">
+        <source>About</source>
+        <target>Hakkında</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="419d940613972cc3fae9c8ea0a4306dbf80616e5" datatype="html">
+        <source>Services</source>
+        <target>Hizmetler</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34746fb1c7f3d2194d99652bdff89e6e14c9c4f4" datatype="html">
+        <source>Contact</source>
+        <target>İletişim</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d" datatype="html">
+        <source>Logout</source>
+        <target>Çıkış</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6765b4c916060f6bc42d9bb69e80377dbcb5e4e9" datatype="html">
+        <source>Login</source>
+        <target>Giriş Yap</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/login.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/login.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6fa97b4c7123a4df59cb463f1e61e44a61e4e2cd" datatype="html">
+        <source>Basket : <x id="INTERPOLATION" equiv-text="{{ totalCount() }}"/></source>
+        <target>Sepet : <x id="INTERPOLATION" equiv-text="{{ totalCount() }}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="49c0323293e0eb56bb0c9df766ceb0365eee215b" datatype="html">
+        <source>EMail is required</source>
+        <target>EMail gereklidir</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/login.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/register.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c32ef07f8803a223a83ed17024b38e8d82292407" datatype="html">
+        <source>Password</source>
+        <target>Parola</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/login.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/register.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1e20f8b8a4706526c9024cc2f39d568345d100dc" datatype="html">
+        <source>Password is required</source>
+        <target>Parola gereklidir</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/login.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/register.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cfc2f436ec2beffb042e7511a73c89c372e86a6c" datatype="html">
+        <source>Register</source>
+        <target>Kaydol</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/login.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/register.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/register.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cff1428d10d59d14e45edec3c735a27b5482db59" datatype="html">
+        <source>Name</source>
+        <target>İsim</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/register.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5b752f143ab30faa45a2679b5e7a28bbf3fb246d" datatype="html">
+        <source>Name is required</source>
+        <target>İsim gereklidir</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/register.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7a2cf892d7a590926cf08859bfd14064c1c9cd6a" datatype="html">
+        <source>Password must be at least 6 characters</source>
+        <target>Parolanız en az 6 haneli olmalıdır</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/register.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d7b35c384aecd25a516200d6921836374613dfe7" datatype="html">
+        <source>Cancel</source>
+        <target>İptal</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/register.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a8026c4fe7ec0999f852e71393dca77c9e3b6f77" datatype="html">
+        <source>Product Details</source>
+        <target>Ürün Detayları</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/detail.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="48dfb134cb8d324bb45f2f9f3bd7d7afc49bc3f8" datatype="html">
+        <source>Products</source>
+        <target>Ürünler</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/home.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8bc95dfd29919468be36ddd9e1b737f2451fea96" datatype="html">
+        <source>Buy Now!</source>
+        <target>Sepete Ekle!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/home.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d502ff69ac61a0dc636f0e98d3e70b59e9caf7b6" datatype="html">
+        <source>More Info</source>
+        <target>Ürün Bilgisi</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/home.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="da5ed0bf20d7d85962598f1e8bb8486dcb3d1019" datatype="html">
+        <source>Products in My Basket</source>
+        <target>Sepetimdeki Ürünler</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/cart.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="55c675d131e1e1fb8caf7a849793fdade7850ca7" datatype="html">
+        <source>Delete one item!</source>
+        <target>Bir ürün sil!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/cart.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b1e07b756954437ee92eb3212695188126e3e9ad" datatype="html">
+        <source>Total = <x id="INTERPOLATION" equiv-text="{{totalShopping()}}"/> $</source>
+        <target>Toplam = <x id="INTERPOLATION" equiv-text="{{totalShopping()}}"/> $</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/Pages/cart.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
